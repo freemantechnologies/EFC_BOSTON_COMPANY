@@ -1150,7 +1150,7 @@ body {
 }
 
 .slide.i._2 {
-  background-image: url('../images/3_3.jpg');
+  background-image: url('../images/15_3.jpg');
   background-position: 50%;
 }
 
@@ -1450,30 +1450,7 @@ body {
     width: 100%;
   }
 
-  .slide.i._1, .slide.i._10, .slide.i._11, .slide.i._14, .slide.i._16, .slide.i._17, .slide.i._18, .slide.i._19 {
-    background-position: 50%;
-  }
-
-  .slide.i._20 {
-    background-image: url('../images/20_1.jpg');
-    background-position: 50%;
-  }
-
-  .slide.i._21 {
-    background-image: url('../images/21.jpg');
-  }
-
-  .slide.i._22 {
-    background-image: url('../images/22.jpg');
-    background-position: 50%;
-  }
-
-  .slide.i._23 {
-    background-image: url('../images/23.jpg');
-    background-position: 50%;
-  }
-
-  .slide.i._24, .slide.i._24-copy {
+  .slide.i._24-copy {
     background-image: url('../images/24.jpg');
   }
 
